@@ -1,2 +1,2 @@
 # Counting-People-in-a-Public-Area-Using-a-Camera-Feed
-A system to count people in public areas using a camera feed
+This project is used to count the number of people in a public area using a camera feed.It helps in monitoring crowd density by analyzing video input from camera.

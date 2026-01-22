@@ -27,6 +27,3 @@ It raises an alert when overcrowding is detected for a certain period of time.
 - Displays total number of people
 - Shows crowd status (Normal / Overcrowded)
 - Draws bounding boxes around detected people
-
-## Author
-Kavya C

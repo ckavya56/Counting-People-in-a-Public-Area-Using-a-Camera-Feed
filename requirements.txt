@@ -1,5 +1,7 @@
-streamlit
 opencv-python
 numpy
+torch
 ultralytics
-yt-dlp
+streamlit
+pandas
+scipy

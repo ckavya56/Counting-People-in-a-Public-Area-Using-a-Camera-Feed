@@ -1,1 +1,2 @@
-
+MODEL_NAME = "yolov8n.pt"
+CONFIDENCE_THRESHOLD = 0.4
